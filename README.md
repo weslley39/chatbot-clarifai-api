@@ -1,7 +1,7 @@
-# eliascecon-bot
+# chatbot-clarifai-api
 
 ## Setup
-Get the `TOKEN` from a bot user from slack and set as `ELIASTOKEN` environment variable.
+Get the `TOKEN` from Clarifai and set as `CLARIFAI_KEY` environment variable.
 ```
 npm install
 npm start
